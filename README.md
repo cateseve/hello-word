@@ -1,3 +1,3 @@
-# hello-word
+# hello-world
 
 Learning how to use GitHub
